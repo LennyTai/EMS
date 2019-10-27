@@ -1,0 +1,57 @@
+!
+ * Bootstrap v4.3.1 (https://getbootstrap.com/)
+ * Copyright 2011-2019 The Bootstrap Authors
+ * Copyright 2011-2019 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+/*New Custom CCS*/
+  .material-icons.red { color: #FB8C00; }
+
+  .required:after {
+      content: '*';
+      color: red;
+      padding-left: 5px;
+  }
+
+  .label {
+      display: inline;
+      padding: 0.3em .6em;
+      font-size: 85%;
+      font-weight: 600;
+      line-height: 1;
+      color: #ffffff;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: baseline;
+      border-radius: .50em;
+  }
+
+  .label-yellow {
+      background-color: #999900;
+  }
+  .label-blue {
+      background-color: #0000FF;
+  }
+
+  .label-green {
+      background-color: #32CD32;
+  }
+
+  .label-purple {
+      background-color: #7d4bc5;
+  }
+
+  .label-pink {
+      background-color: #f24f7c;
+  }
+
+  .label-warning {
+      background-color: #edc755;
+  }
+
+  .label-info {
+      background-color: #33b0e0;
+  }
+
+/*New Added Code*/
